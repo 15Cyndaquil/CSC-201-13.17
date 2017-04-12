@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CSC-201-13.17</string>
+
+    <string name="all_num_input">Input numbers in all fields</string>
+    <string name="all_num1_input">Input numbers in all Number #1 fields</string>
+    <string name="all_num2_input">Input numbers in all Number #2 fields</string>
+
+    <string name="textView">Input Real Number</string>
+    <string name="textView2">Input Imaginary Number</string>
+    <string name="textView3">Complex Number #1</string>
+    <string name="textView4">Complex Number #2</string>
+    <string name="textView7">Operations Between
+        \n Complex Number #1 and Complex Number #2</string>
+
+    <string name="realNum1">Real Number #1</string>
+    <string name="realNum2">Real Number #2</string>
+
+    <string name="imagNum1">Imaginary Number #1</string>
+    <string name="imagNum2">Imaginary Number #2</string>
+
+    <string name="addBT">Add</string>
+    <string name="subBT">Subtract</string>
+    <string name="multBT">Multiply</string>
+    <string name="divideBT">Divide</string>
+    <string name="abs1BT">ABS Value #1</string>
+    <string name="abs2BT">ABS Value #2</string>
+
+    <string name="outputTV">Output</string>
+</resources>
